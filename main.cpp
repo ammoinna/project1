@@ -1,7 +1,7 @@
-#include <stdio.h>
-
-int main(int argc, char **argv)
+#include <iostream>
+using namespace std;
+int main()
 {
-	printf("hello world\n");
+	cout << "hello world\n";
 	return 0;
 }
